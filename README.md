@@ -6,10 +6,10 @@ Currently pursuing MSc in Computer Science at the University of Bristol.
 Open to full-time SWE / AI Engineering roles.
 
 ### What I build:
-- Real-time multiplayer games with physics simulation (p5.js)
 - REST APIs and enterprise integration systems (Java, .NET)
 - AI/ML pipelines — LLMs, RAG, CNNs, Neural Networks (PyTorch)
 - Scalable backend systems deployed on AWS
+- Database design and data-driven applications (SQL, JDBC, Hibernate)
 
 ### Stack I work in daily:
 Java · .NET · Python · JavaScript · PyTorch · AWS · Docker · REST APIs · Git
