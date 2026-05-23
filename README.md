@@ -12,7 +12,7 @@ Open to full-time SWE / AI Engineering roles.
 - Database design and data-driven applications (SQL, JDBC, Hibernate)
 
 ### Stack I work in daily:
-Java · .NET · Python · JavaScript · PyTorch · AWS · Docker · REST APIs · Git
+Java · C#, .NET · Python · JavaScript · PyTorch · AWS · Docker · REST APIs · Git
 
 ### Tech Stack
 
