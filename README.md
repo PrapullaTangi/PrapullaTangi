@@ -20,6 +20,7 @@ Java · C#, .NET · Python · JavaScript · PyTorch · AWS · Docker · REST API
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![OOPs](https://img.shields.io/badge/OOPs-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -50,6 +51,7 @@ Java · C#, .NET · Python · JavaScript · PyTorch · AWS · Docker · REST API
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
 ![TDD](https://img.shields.io/badge/Test_Driven_Development-25A162?style=for-the-badge&logo=testinglibrary&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI/CD-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Project Management](https://img.shields.io/badge/Project_Management-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 
 ### 📊 GitHub Stats
